@@ -1,0 +1,49 @@
+body{
+	margin-top: 0;
+	height: 100%;
+}
+
+footer{
+  padding:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align: center;
+}
+header {
+height: 40px;
+margin: 0;
+padding: 0;
+}
+
+/* COMPANY */
+
+#company{
+  background:#35424a;
+  color:#fff;
+  padding:5px 0 10px 0;
+}
+
+#company h4{
+  text-transform:uppercase;
+  margin-bottom:0;
+   line-height:2em;
+   text-indent: 5px;
+}
+
+#company ul{
+  padding:0;
+  list-style:none;
+  line-height:2em;
+  text-indent: 10px;
+}
+
+
+#company button{
+  background:#222;
+  color:#fff;
+  padding:10px;
+  border:0;
+}
+
+
+

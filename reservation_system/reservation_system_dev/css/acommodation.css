@@ -1,0 +1,179 @@
+	
+/*Accomodation*/
+body{
+	margin:0;
+	height: auto;
+}
+
+div.gallery {
+    border: 1px solid #ccc;
+	background-color: #fff;
+	min-height: 250px;	
+}
+
+
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+
+.desc{
+	color: #c3c3c3;
+	padding: 10px 25px;
+	text-transform: uppercase;
+
+}
+.link {
+	display: inline-block;
+	height: 100%;
+	color: black;	
+	transition: all 0.3s ease;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 10px 25px;
+}
+
+.link:hover,
+.link:focus {
+	color: #ffa500;
+}
+h3 {
+	font-family: arial;
+	font-size: 18px;
+	padding: 25px 25px;
+	text-transform: uppercase;
+	
+}
+
+
+.title{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-weight: 200;
+}
+.entitle{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: 300;
+}
+hr {
+	border-top: 1px solid #111010;
+	margin: 50px;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+	 height: auto;
+}
+
+.responsive2{
+  padding: 6px;
+  float: left;
+	margin: 15px;
+	border: 3px solid grey;
+  background-color: #E5E5E5;
+
+}
+
+
+
+.img-responsive{
+	
+	height: auto;
+  display: block;
+  max-width: 100%;
+  margin: 5px;
+}
+
+.gallery2 img{
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  padding: 6px;
+  transition: ls;
+  border: 3px solid grey;
+}
+
+.gallery2 img:hover{
+	transform: scale(1.1);
+}
+
+.imgStyle{
+	height: 100px;
+	width: 100px;
+	border: 3px solid grey;
+}
+
+.home-description {
+	margin: 30px auto;
+	padding: 0 30px;
+	text-align: center;
+}
+
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+	 .responsive2 {
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+	 .responsive2 {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+header {
+height: 40px;
+margin: 0;
+padding: 0;
+}
+#company{
+  background:#35424a;
+  color:#fff;
+  padding:5px 0 10px 0;
+}
+
+#company h4{
+  text-transform:uppercase;
+  margin-bottom:0;
+}
+
+#company ul{
+  padding:0;
+  list-style:none;
+  line-height:2em;
+}
+
+
+#company button{
+  background:#222;
+  color:#fff;
+  padding:10px;
+  border:0;
+}

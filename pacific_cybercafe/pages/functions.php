@@ -1,0 +1,22 @@
+	<?php
+	function generateNewString($len = 10) {
+		$token = "poiuztrewqasdfghjklmnbvcxy1234567890";
+		$token = str_shuffle($token);
+		$token = substr($token, 0, $len);
+
+		return $token;
+	}
+
+	function redirectToLoginPage() {
+		header('Location: signin.php');
+		exit();
+	}
+
+
+	function changePassword($email, $token){
+		
+		header("Location: changePassword.php?email=$email&token=$token");
+		exit();
+
+	}
+?>

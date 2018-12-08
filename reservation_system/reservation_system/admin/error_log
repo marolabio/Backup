@@ -1,0 +1,261 @@
+[10-Feb-2018 18:35:50 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[11-Feb-2018 11:40:50 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[11-Feb-2018 11:40:50 Asia/Manila] PHP Notice:  Undefined index: c_email in /home/rockgard/public_html/admin/phpmailerVerify.php on line 3
+[11-Feb-2018 11:40:50 Asia/Manila] PHP Notice:  Undefined index: cust_id in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 51
+[11-Feb-2018 11:40:50 Asia/Manila] PHP Notice:  Undefined index: c_first in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 97
+[11-Feb-2018 11:40:50 Asia/Manila] PHP Notice:  Undefined index: c_last in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 97
+[11-Feb-2018 11:40:50 Asia/Manila] PHP Notice:  Undefined index: transaction_id in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 101
+[11-Feb-2018 11:40:50 Asia/Manila] PHP Notice:  Undefined variable: balance in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 182
+[11-Feb-2018 11:42:55 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[11-Feb-2018 11:42:55 Asia/Manila] PHP Notice:  Undefined index: c_email in /home/rockgard/public_html/admin/phpmailerVerify.php on line 3
+[11-Feb-2018 11:42:55 Asia/Manila] PHP Notice:  Undefined index: cust_id in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 51
+[11-Feb-2018 11:42:55 Asia/Manila] PHP Notice:  Undefined index: c_first in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 97
+[11-Feb-2018 11:42:55 Asia/Manila] PHP Notice:  Undefined index: c_last in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 97
+[11-Feb-2018 11:42:55 Asia/Manila] PHP Notice:  Undefined index: transaction_id in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 101
+[11-Feb-2018 11:42:55 Asia/Manila] PHP Notice:  Undefined variable: balance in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 182
+[11-Feb-2018 11:49:03 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[11-Feb-2018 11:49:03 Asia/Manila] PHP Notice:  Undefined index: cust_id in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 51
+[11-Feb-2018 11:49:03 Asia/Manila] PHP Notice:  Undefined variable: balance in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 182
+[11-Feb-2018 22:02:19 Asia/Manila] PHP Notice:  Undefined index: amount_paid in /home/rockgard/public_html/admin/refundCustomer.php on line 9
+[11-Feb-2018 22:02:41 Asia/Manila] PHP Notice:  Undefined index: amount_paid in /home/rockgard/public_html/admin/refundCustomer.php on line 9
+[11-Feb-2018 22:02:43 Asia/Manila] PHP Notice:  Undefined index: amount_paid in /home/rockgard/public_html/admin/refundCustomer.php on line 9
+[11-Feb-2018 22:02:59 Asia/Manila] PHP Notice:  Undefined index: amount_paid in /home/rockgard/public_html/admin/refundCustomer.php on line 9
+[11-Feb-2018 22:17:32 Asia/Manila] PHP Notice:  Undefined variable: img in /home/rockgard/public_html/admin/reservationSelect.php on line 28
+[11-Feb-2018 22:17:32 Asia/Manila] PHP Notice:  Undefined variable: res_type in /home/rockgard/public_html/admin/reservationSelect.php on line 41
+[11-Feb-2018 22:17:32 Asia/Manila] PHP Notice:  Undefined variable: transaction_id in /home/rockgard/public_html/admin/reservationSelect.php on line 45
+[11-Feb-2018 22:17:32 Asia/Manila] PHP Notice:  Undefined variable: cust_name in /home/rockgard/public_html/admin/reservationSelect.php on line 49
+[11-Feb-2018 22:17:32 Asia/Manila] PHP Notice:  Undefined variable: cust_contact in /home/rockgard/public_html/admin/reservationSelect.php on line 53
+[11-Feb-2018 22:17:32 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationSelect.php on line 116
+[11-Feb-2018 22:17:34 Asia/Manila] PHP Notice:  Undefined variable: img in /home/rockgard/public_html/admin/reservationSelect.php on line 28
+[11-Feb-2018 22:17:34 Asia/Manila] PHP Notice:  Undefined variable: res_type in /home/rockgard/public_html/admin/reservationSelect.php on line 41
+[11-Feb-2018 22:17:34 Asia/Manila] PHP Notice:  Undefined variable: transaction_id in /home/rockgard/public_html/admin/reservationSelect.php on line 45
+[11-Feb-2018 22:17:34 Asia/Manila] PHP Notice:  Undefined variable: cust_name in /home/rockgard/public_html/admin/reservationSelect.php on line 49
+[11-Feb-2018 22:17:34 Asia/Manila] PHP Notice:  Undefined variable: cust_contact in /home/rockgard/public_html/admin/reservationSelect.php on line 53
+[11-Feb-2018 22:17:34 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationSelect.php on line 116
+[11-Feb-2018 22:19:28 Asia/Manila] PHP Notice:  Undefined index: amount_paid in /home/rockgard/public_html/admin/refundCustomer.php on line 9
+[11-Feb-2018 22:22:38 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[11-Feb-2018 22:22:38 Asia/Manila] PHP Notice:  Undefined index: total_amount in /home/rockgard/public_html/admin/printpdf.php on line 88
+[11-Feb-2018 22:25:43 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[11-Feb-2018 22:25:43 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/printpdf.php on line 104
+[11-Feb-2018 22:28:23 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[12-Feb-2018 14:32:44 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 01:49:03 Asia/Manila] PHP Notice:  Undefined index: reservations in /home/rockgard/public_html/admin/reservationTransaction.php on line 124
+[13-Feb-2018 01:49:03 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 188
+[13-Feb-2018 01:50:50 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 01:52:04 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 02:03:47 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[13-Feb-2018 02:09:32 Asia/Manila] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rockgard/public_html/admin/rooms.php on line 193
+[13-Feb-2018 02:09:37 Asia/Manila] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rockgard/public_html/admin/rooms.php on line 193
+[13-Feb-2018 02:09:43 Asia/Manila] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rockgard/public_html/admin/rooms.php on line 193
+[13-Feb-2018 02:09:47 Asia/Manila] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/rockgard/public_html/admin/rooms.php on line 193
+[13-Feb-2018 02:24:40 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 08:43:46 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 08:44:46 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 08:45:23 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[13-Feb-2018 09:51:15 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 09:54:19 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 188
+[13-Feb-2018 09:56:20 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 09:57:12 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 09:57:54 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[13-Feb-2018 09:57:59 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[13-Feb-2018 09:58:05 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[13-Feb-2018 10:04:46 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 10:05:06 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 10:09:35 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[13-Feb-2018 10:09:42 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[13-Feb-2018 10:10:14 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:16:08 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:16:27 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:16:57 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:17:41 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:19:06 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:19:48 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:20:54 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:21:23 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:23:24 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:23:50 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:24:29 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:24:51 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:25:12 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:29:11 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:30:30 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:31:08 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:31:51 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:34:36 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 10:35:15 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[13-Feb-2018 12:44:22 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[13-Feb-2018 12:48:33 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[14-Feb-2018 22:52:32 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[14-Feb-2018 23:01:50 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[14-Feb-2018 23:02:28 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[15-Feb-2018 09:49:34 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[15-Feb-2018 09:52:34 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rockgard/public_html/admin/checkoutSelectUpdate.php on line 18
+[15-Feb-2018 10:03:24 Asia/Manila] PHP Notice:  Undefined index: checkin in /home/rockgard/public_html/admin/checkoutSelectCheckout.php on line 30
+[15-Feb-2018 10:03:24 Asia/Manila] PHP Notice:  Undefined index: checkout in /home/rockgard/public_html/admin/checkoutSelectCheckout.php on line 35
+[15-Feb-2018 10:03:24 Asia/Manila] PHP Notice:  Undefined index: nights in /home/rockgard/public_html/admin/checkoutSelectCheckout.php on line 39
+[15-Feb-2018 10:03:25 Asia/Manila] PHP Notice:  Undefined index: checkin in /home/rockgard/public_html/admin/checkoutSelectCheckout.php on line 30
+[15-Feb-2018 10:03:25 Asia/Manila] PHP Notice:  Undefined index: checkout in /home/rockgard/public_html/admin/checkoutSelectCheckout.php on line 35
+[15-Feb-2018 10:03:25 Asia/Manila] PHP Notice:  Undefined index: nights in /home/rockgard/public_html/admin/checkoutSelectCheckout.php on line 39
+[15-Feb-2018 10:04:10 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[15-Feb-2018 10:09:48 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[15-Feb-2018 10:48:26 Asia/Manila] PHP Notice:  Undefined variable: total_amount in /home/rockgard/public_html/admin/reservationVerify.php on line 34
+[15-Feb-2018 10:49:42 Asia/Manila] PHP Notice:  Undefined variable: res_id in /home/rockgard/public_html/admin/checkoutCheckout.php on line 50
+[17-Feb-2018 10:23:12 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 10:27:20 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 10:35:21 Asia/Manila] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/rockgard/public_html/admin/refund.php on line 159
+[17-Feb-2018 10:35:31 Asia/Manila] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/rockgard/public_html/admin/refund.php on line 159
+[17-Feb-2018 10:35:34 Asia/Manila] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/rockgard/public_html/admin/refund.php on line 159
+[17-Feb-2018 10:37:13 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 10:38:03 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 10:43:28 Asia/Manila] PHP Notice:  Undefined index: c_first in /home/rockgard/public_html/admin/reservationConfirm.php on line 7
+[17-Feb-2018 10:43:28 Asia/Manila] PHP Notice:  Undefined index: c_last in /home/rockgard/public_html/admin/reservationConfirm.php on line 8
+[17-Feb-2018 10:43:28 Asia/Manila] PHP Notice:  Undefined index: c_contact in /home/rockgard/public_html/admin/reservationConfirm.php on line 9
+[17-Feb-2018 10:43:28 Asia/Manila] PHP Notice:  Undefined index: c_email in /home/rockgard/public_html/admin/reservationConfirm.php on line 10
+[17-Feb-2018 10:59:03 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 188
+[17-Feb-2018 11:05:01 Asia/Manila] PHP Notice:  Undefined index: c_first in /home/rockgard/public_html/admin/reservationSummary.php on line 94
+[17-Feb-2018 11:05:01 Asia/Manila] PHP Notice:  Undefined index: c_last in /home/rockgard/public_html/admin/reservationSummary.php on line 95
+[17-Feb-2018 11:05:01 Asia/Manila] PHP Notice:  Undefined index: c_contact in /home/rockgard/public_html/admin/reservationSummary.php on line 96
+[17-Feb-2018 11:05:01 Asia/Manila] PHP Notice:  Undefined index: c_email in /home/rockgard/public_html/admin/reservationSummary.php on line 97
+[17-Feb-2018 12:14:19 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 12:14:37 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 12:15:07 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 14:15:31 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 14:23:11 Asia/Manila] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rockgard/public_html/admin/PDF/fpdf.php on line 12
+[17-Feb-2018 15:11:25 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/rockgard/public_html/admin/checkin.php on line 326
+[17-Feb-2018 15:11:31 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/rockgard/public_html/admin/checkin.php on line 326
+[04-Mar-2018 18:54:50 Asia/Manila] PHP Notice:  Undefined index: u_first in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 191
+[04-Mar-2018 18:54:50 Asia/Manila] PHP Notice:  Undefined index: u_last in /home/rockgard/public_html/admin/emailReceiptVerified.php on line 191
+[27-May-2018 13:43:17 Asia/Manila] PHP Notice:  Undefined index: reservations in /home/rockgard/public_html/admin/reservationTransaction.php on line 77
+[27-May-2018 13:43:17 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/rockgard/public_html/admin/reservationTransaction.php on line 77
+[27-May-2018 13:43:17 Asia/Manila] PHP Notice:  Undefined index: rooms in /home/rockgard/public_html/admin/reservationTransaction.php on line 86
+[27-May-2018 13:43:17 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/rockgard/public_html/admin/reservationTransaction.php on line 86
+[27-May-2018 13:43:17 Asia/Manila] PHP Notice:  Undefined index: reservations in /home/rockgard/public_html/admin/reservationTransaction.php on line 94
+[27-May-2018 13:43:17 Asia/Manila] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/rockgard/public_html/admin/reservationTransaction.php on line 94
+[27-May-2018 13:43:17 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 188
+[27-May-2018 13:48:29 Asia/Manila] PHP Notice:  Undefined index: rooms in /home/rockgard/public_html/admin/reservationTransaction.php on line 65
+[27-May-2018 13:48:29 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/rockgard/public_html/admin/reservationTransaction.php on line 65
+[27-May-2018 13:49:47 Asia/Manila] PHP Notice:  Undefined index: rooms in /home/rockgard/public_html/admin/reservationTransaction.php on line 65
+[27-May-2018 13:49:47 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/rockgard/public_html/admin/reservationTransaction.php on line 65
+[30-May-2018 12:02:05 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/rockgard/public_html/admin/checkinCustomer.php on line 72
+[30-May-2018 12:02:06 Asia/Manila] PHP Notice:  Undefined variable: _SESSION in /home/rockgard/public_html/admin/checkinCustomer.php on line 72
+[19-Jun-2018 19:00:45 Asia/Manila] PHP Notice:  Undefined index: c_first in /home/rockgard/public_html/admin/reservationConfirm.php on line 7
+[19-Jun-2018 19:00:45 Asia/Manila] PHP Notice:  Undefined index: c_last in /home/rockgard/public_html/admin/reservationConfirm.php on line 8
+[19-Jun-2018 19:00:45 Asia/Manila] PHP Notice:  Undefined index: c_contact in /home/rockgard/public_html/admin/reservationConfirm.php on line 9
+[19-Jun-2018 19:00:45 Asia/Manila] PHP Notice:  Undefined index: c_email in /home/rockgard/public_html/admin/reservationConfirm.php on line 10
+[19-Jun-2018 20:16:26 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 188
+[19-Jun-2018 20:19:05 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 192
+[19-Jun-2018 20:19:08 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 192
+[19-Jun-2018 20:20:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function eader() in /home/rockgard/public_html/admin/reservationTransaction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rockgard/public_html/admin/reservationTransaction.php on line 7
+[19-Jun-2018 20:20:24 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 192
+[19-Jun-2018 20:20:33 Asia/Manila] PHP Notice:  Undefined index: rooms in /home/rockgard/public_html/admin/reservationTransaction.php on line 17
+[19-Jun-2018 20:20:33 Asia/Manila] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/rockgard/public_html/admin/reservationTransaction.php on line 17
+[19-Jun-2018 20:20:33 Asia/Manila] PHP Notice:  Undefined index: rooms in /home/rockgard/public_html/admin/reservationTransaction.php on line 35
+[19-Jun-2018 20:20:33 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/rockgard/public_html/admin/reservationTransaction.php on line 35
+[19-Jun-2018 20:21:41 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 194
+[19-Jun-2018 20:21:44 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 194
+[22-Jun-2018 21:11:48 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:48 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:50 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:50 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:51 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:51 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:51 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:51 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:52 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:52 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:52 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:52 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:53 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:53 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:53 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:53 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:54 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:54 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:54 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:54 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:54 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:54 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:55 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:55 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:55 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:55 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:56 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:56 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:58 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:58 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:58 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:58 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:58 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:11:58 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:12:01 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:12:01 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:12:01 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:12:01 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:12:02 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:12:02 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:17:41 Asia/Manila] PHP Warning:  require_once(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:17:41 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/rockgard/public_html/admin/forgotPassword.php on line 23
+[22-Jun-2018 21:37:01 Asia/Manila] PHP Notice:  Trying to get property of non-object in /home/rockgard/public_html/admin/resetPassword.php on line 14
+[22-Jun-2018 21:40:24 Asia/Manila] PHP Notice:  Trying to get property of non-object in /home/rockgard/public_html/admin/resetPassword.php on line 14
+[22-Jun-2018 21:41:47 Asia/Manila] PHP Notice:  Trying to get property of non-object in /home/rockgard/public_html/admin/resetPassword.php on line 14
+[23-Jun-2018 20:51:04 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 44
+[23-Jun-2018 20:51:09 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 44
+[23-Jun-2018 20:51:14 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 44
+[23-Jun-2018 20:51:29 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 44
+[23-Jun-2018 20:51:42 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 44
+[23-Jun-2018 20:53:49 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 44
+[23-Jun-2018 20:54:37 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 44
+[24-Jun-2018 17:15:05 Asia/Manila] PHP Notice:  Undefined variable: total in /home/rockgard/public_html/admin/reservationTransaction.php on line 194
+[24-Jun-2018 20:11:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/rockgard/public_html/admin/forgotPassword.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rockgard/public_html/admin/forgotPassword.php on line 24
+[24-Jun-2018 20:11:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/rockgard/public_html/admin/forgotPassword.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rockgard/public_html/admin/forgotPassword.php on line 24
+[24-Jun-2018 20:12:22 Asia/Manila] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/rockgard/public_html/admin/forgotPassword.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rockgard/public_html/admin/forgotPassword.php on line 24
+[24-Jun-2018 20:24:35 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 47
+[24-Jun-2018 20:25:09 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 47
+[24-Jun-2018 20:25:18 Asia/Manila] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rockgard/public_html/admin/forgotPassword.php on line 47
+[24-Jun-2018 20:45:23 Asia/Manila] PHP Notice:  Undefined variable: email in /home/rockgard/public_html/admin/resetPassword.php on line 13
+[24-Jun-2018 20:48:32 Asia/Manila] PHP Parse error:  syntax error, unexpected '}' in /home/rockgard/public_html/admin/resetPassword.php on line 38
+[24-Jun-2018 20:48:37 Asia/Manila] PHP Parse error:  syntax error, unexpected '}' in /home/rockgard/public_html/admin/resetPassword.php on line 38
+[24-Jun-2018 20:48:38 Asia/Manila] PHP Parse error:  syntax error, unexpected '}' in /home/rockgard/public_html/admin/resetPassword.php on line 38
+[24-Jun-2018 20:57:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function changePassword() in /home/rockgard/public_html/admin/resetPassword.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rockgard/public_html/admin/resetPassword.php on line 16
+[24-Jun-2018 20:58:41 Asia/Manila] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 20:59:17 Asia/Manila] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 21:27:16 Asia/Manila] PHP Warning:  Missing argument 1 for changePassword(), called in /home/rockgard/public_html/admin/resetPassword.php on line 16 and defined in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 21:27:16 Asia/Manila] PHP Warning:  Missing argument 2 for changePassword(), called in /home/rockgard/public_html/admin/resetPassword.php on line 16 and defined in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 21:27:17 Asia/Manila] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rockgard/public_html/admin/changePassword.php on line 3
+[24-Jun-2018 21:29:06 Asia/Manila] PHP Warning:  Missing argument 1 for changePassword(), called in /home/rockgard/public_html/admin/resetPassword.php on line 16 and defined in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 21:29:06 Asia/Manila] PHP Warning:  Missing argument 2 for changePassword(), called in /home/rockgard/public_html/admin/resetPassword.php on line 16 and defined in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 21:29:06 Asia/Manila] PHP Notice:  Undefined variable: email in /home/rockgard/public_html/admin/functions.php on line 17
+[24-Jun-2018 21:31:20 Asia/Manila] PHP Warning:  Missing argument 1 for changePassword(), called in /home/rockgard/public_html/admin/resetPassword.php on line 16 and defined in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 21:31:20 Asia/Manila] PHP Warning:  Missing argument 2 for changePassword(), called in /home/rockgard/public_html/admin/resetPassword.php on line 16 and defined in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 21:31:20 Asia/Manila] PHP Notice:  Undefined variable: email in /home/rockgard/public_html/admin/functions.php on line 17
+[24-Jun-2018 21:35:16 Asia/Manila] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rockgard/public_html/admin/changePassword.php on line 3
+[24-Jun-2018 21:39:33 Asia/Manila] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rockgard/public_html/admin/changePassword.php on line 3
+[24-Jun-2018 21:42:01 Asia/Manila] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rockgard/public_html/admin/changePassword.php on line 3
+[24-Jun-2018 21:47:24 Asia/Manila] PHP Notice:  Undefined index: token in /home/rockgard/public_html/admin/changePassword.php on line 6
+[24-Jun-2018 21:48:13 Asia/Manila] PHP Warning:  Missing argument 2 for changePassword(), called in /home/rockgard/public_html/admin/resetPassword.php on line 16 and defined in /home/rockgard/public_html/admin/functions.php on line 16
+[24-Jun-2018 21:48:13 Asia/Manila] PHP Notice:  Undefined variable: token in /home/rockgard/public_html/admin/functions.php on line 18
+[24-Jun-2018 21:50:26 Asia/Manila] PHP Notice:  Undefined index: email in /home/rockgard/public_html/admin/changePassword.php on line 5
+[24-Jun-2018 21:50:26 Asia/Manila] PHP Notice:  Undefined index: token in /home/rockgard/public_html/admin/changePassword.php on line 6
+[24-Jun-2018 21:50:26 Asia/Manila] PHP Notice:  Undefined variable: email in /home/rockgard/public_html/admin/changePassword.php on line 16
+[24-Jun-2018 21:53:42 Asia/Manila] PHP Notice:  Undefined index: email in /home/rockgard/public_html/admin/changePassword.php on line 5
+[24-Jun-2018 21:53:42 Asia/Manila] PHP Notice:  Undefined index: token in /home/rockgard/public_html/admin/changePassword.php on line 6
+[24-Jun-2018 22:06:12 Asia/Manila] PHP Notice:  Undefined index: email in /home/rockgard/public_html/admin/changePassword.php on line 5
+[24-Jun-2018 22:06:12 Asia/Manila] PHP Notice:  Undefined index: token in /home/rockgard/public_html/admin/changePassword.php on line 6
+[25-Jun-2018 14:21:49 Asia/Manila] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rockgard/public_html/admin/changePassword.php on line 5
+[25-Jun-2018 14:35:34 Asia/Manila] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rockgard/public_html/admin/changePassword.php on line 10
+[25-Jun-2018 14:37:13 Asia/Manila] PHP Notice:  Undefined index: user_token in /home/rockgard/public_html/admin/changePassword.php on line 34

@@ -1,0 +1,44 @@
+.highlight{
+    color:#e8491d;
+    font-weight:bold;
+}
+
+/* Logo */
+.navbar-brand{
+    padding: 0px;
+}
+
+.navbar-brand>img{
+    height: 100%;
+    padding: 7px 15px; 
+    width: auto;
+}
+
+header {
+    height: 45px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Carousel */
+.carousel-inner > .item > img { width:100%; min-height: 300px; max-height: auto; }
+header {
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Modals */
+@media (min-width: 768px) {
+    .modal-dialog {
+      width: 600;
+      margin: 30px auto;
+    }
+    .modal-content {
+      -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+              box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    }
+    .modal-sm {
+      width: 300px;
+    }
+}
